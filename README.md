@@ -1,3 +1,7 @@
+This is a fork of firebaseui-web, with both English and Spanish builds in the `dist` folder.
+
+---
+
 [![Build Status](https://travis-ci.org/firebase/firebaseui-web.svg?branch=master)](https://travis-ci.org/firebase/firebaseui-web)
 
 # FirebaseUI for Web — Auth
